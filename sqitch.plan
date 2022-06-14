@@ -4,3 +4,5 @@
 
 appschema 2022-06-13T12:30:26Z vdkotian <vdkotian@yahoo.com> # Add schema for all flipr objects.
 users [appschema] 2022-06-14T07:03:33Z vdkotian <vdkotian@yahoo.com> # Creates table to track our users.
+insert_user [users appschema] 2022-06-14T07:37:51Z vdkotian <vdkotian@yahoo.com> # Creates a function to insert a user.
+change_pass [users appschema] 2022-06-14T07:38:17Z vdkotian <vdkotian@yahoo.com> # Creates a function to change a user password.

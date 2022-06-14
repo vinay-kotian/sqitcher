@@ -7,5 +7,3 @@ users [appschema] 2022-06-14T07:03:33Z vdkotian <vdkotian@yahoo.com> # Creates t
 insert_user [users appschema] 2022-06-14T07:37:51Z vdkotian <vdkotian@yahoo.com> # Creates a function to insert a user.
 change_pass [users appschema] 2022-06-14T07:38:17Z vdkotian <vdkotian@yahoo.com> # Creates a function to change a user password.
 @v1.0.0-dev1 2022-06-14T08:02:04Z vdkotian <vdkotian@yahoo.com> # Tag v1.0.0-dev1.
-
-flips [appschema users] 2022-06-14T08:44:34Z vdkotian <vdkotian@yahoo.com> # Adds table for storing flips.

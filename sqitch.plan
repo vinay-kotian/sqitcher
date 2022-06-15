@@ -9,3 +9,5 @@ change_pass [users appschema] 2022-06-14T07:38:17Z vdkotian <vdkotian@yahoo.com>
 @v1.0.0-dev1 2022-06-14T08:02:04Z vdkotian <vdkotian@yahoo.com> # Tag v1.0.0-dev1.
 
 flips [appschema users] 2022-06-14T08:44:34Z vdkotian <vdkotian@yahoo.com> # Adds table for storing flips.
+manage_flips [appschema users] 2022-06-14T12:08:54Z vdkotian <vdkotian@yahoo.com> # Creating function to manage flips.
+delete_flip [appschema users] 2022-06-15T11:25:05Z vdkotian <vdkotian@yahoo.com> # Creating function to delete flips.
